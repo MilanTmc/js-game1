@@ -1,3 +1,3 @@
 #JS Project
 
-Pacman game JS.
+Pacman game JS!
